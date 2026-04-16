@@ -144,15 +144,16 @@ Run jupyter notebook
 
 ## 📌 Future Improvements
 
-Hyperparameter tuning
-Add confidence intervals
-Deploy using Streamlit
-Use advanced models (Prophet, Transformer)
+* Hyperparameter tuning
+* Add confidence intervals
+* Deploy using Streamlit
+* Use advanced models (Prophet, Transformer)
 
 ---
 
 ## 👩‍💻 Author
 
 Meghana C Varghese
+
 Data Scientist | Machine Learning Enthusiast
 
